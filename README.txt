@@ -1,4 +1,4 @@
--*- tab-width:4 -*-
+# Spies like  us
 Directory layout:
 	README.txt	-- This file.
 	maddpg/spies-like-us/experiments/	-- The saved results of experiments.
